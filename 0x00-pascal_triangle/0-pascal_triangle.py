@@ -1,4 +1,6 @@
 #!/usr/bin/python3
+''' A module defining Pascal's Triangle '''
+
 
 def pascal_triangle(n):
     '''returns a list of lists of integers representing
