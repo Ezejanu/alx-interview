@@ -8,7 +8,7 @@ def pascal_triangle(n):
 
     triangle = []
     if n <= 0:
-        return rectangle
+        return triangle
 
     for i in range(n):
         row = [1] * (i + 1)
