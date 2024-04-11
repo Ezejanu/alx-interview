@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+#!/usr/bin/python3
 """ A function hat returns the perimeter of the island described in grid
 """
 
